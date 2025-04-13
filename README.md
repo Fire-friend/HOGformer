@@ -103,3 +103,5 @@ This project is licensed under the MIT License. See the [LICENSE](https://claude
 ## Contact
 
 For any questions, please contact: [wujw97@mail2.sysy.edu.cn]
+
+**Acknowledgment:** This code is based on the [BasicSR](https://github.com/xinntao/BasicSR) toolbox, [Histoformer](https://github.com/sunshangquan/Histoformer), and [DiffUIR](https://github.com/iSEE-Laboratory/DiffUIR).
