@@ -7,8 +7,8 @@ This repository contains the official implementation of the paper "Beyond Degrad
 All-in-one image restoration, which aims to address diverse degradations within a unified framework, is critical for practical applications. However, existing methods rely on predicting and integrating degradation conditions, which can misactivate degradation-specific features in complex scenarios, limiting their restoration performance. To address this issue, we propose a novel all-in-one image restoration framework guided by Histograms of Oriented Gradients (HOG), named HOGformer. By leveraging the degradation-discriminative capability of HOG descriptors, HOGformer employs a dynamic self-attention mechanism that adaptively attends to long-range spatial dependencies based on degradation-aware HOG cues. To enhance the degradation sensitivity of attention inputs, we design a HOG-guided local dynamic-range convolution module that captures long-range degradation similarities while maintaining awareness of global structural information. Furthermore, we propose a dynamic interaction feed-forward module, efficiently increasing the model capacity to adapt to different degradations through channel–spatial interactions. Extensive experiments across diverse benchmarks, including adverse weather and natural degradations, demonstrate that HOGformer achieves state-of-the-art performance and generalizes effectively to complex real-world degradations.
 
 ### Framework
-
-
+![motivation](https://github.com/user-attachments/assets/eee2809c-8c4c-40b3-afbc-2c03317c71bc)
+![method2](https://github.com/user-attachments/assets/257fc0a2-fee3-4960-8d85-b5f45bf7ebda)
 
 ## Setup
 
