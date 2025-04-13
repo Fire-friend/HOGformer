@@ -53,10 +53,6 @@ python XXXX
 
 Key parameters:
 
-- `--config`: Configuration file path
-- `--batch_size`: Batch size
-- `--epochs`: Number of training epochs
-- `--lr`: Learning rate
 - [Other important parameters]
 
 ### Evaluation
