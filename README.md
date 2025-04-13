@@ -70,6 +70,8 @@ python XXXX
 ```
 
 ## Results
+![图片8](https://github.com/user-attachments/assets/7bbd3a2d-6a88-4a7a-b1b8-ab7d9197541a)
+![图片9](https://github.com/user-attachments/assets/3268651b-0581-4c92-b4db-0b8fe6038745)
 
 Here are our experimental results on [dataset name]:
 
