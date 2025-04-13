@@ -16,44 +16,39 @@ All-in-one image restoration, which aims to address diverse degradations within 
 
 ```bash
 # Clone the repository
-git clone https://github.com/[your-username]/[repository-name].git
-cd [repository-name]
+git clone https://github.com/Fire-friend/HOGformer.git
+cd HOGformer
 
 # Create and activate virtual environment (recommended)
-python -m venv venv
-source venv/bin/activate  # Linux/Mac
-# or
-venv\Scripts\activate  # Windows
+conda create -n HOGformer python==3.10
 
 # Install dependencies
 pip install -r requirements.txt
 ```
 
-### Hardware Requirements
-
-- Recommended: [List recommended hardware configurations, such as GPU type, memory requirements, etc.]
-- Minimum: [List minimum hardware requirements]
-
 ## Dataset
 
 ### Data Preparation
 
-[Explain how to obtain and prepare the dataset, including dataset download links, preprocessing steps, etc.]
+#### Setting I
 
-```bash
-# Example for data download
-python scripts/download_data.py
+|      |      |
+| ---- | ---- |
+|      |      |
 
-# Example for data preprocessing
-python scripts/preprocess_data.py --input_dir data/raw --output_dir data/processed
-```
+#### Setting II
+
+|      |      |
+| ---- | ---- |
+|      |      |
+
 
 ## Usage
 
 ### Training
 
 ```bash
-python train.py --config configs/default.yaml
+python XXXX
 ```
 
 Key parameters:
@@ -67,7 +62,7 @@ Key parameters:
 ### Evaluation
 
 ```bash
-python evaluate.py --model_path checkpoints/best_model.pth --test_data data/test
+python XXXX
 ```
 
 ### Using Pretrained Models
@@ -75,7 +70,7 @@ python evaluate.py --model_path checkpoints/best_model.pth --test_data data/test
 We provide pretrained models that can be used directly for inference:
 
 ```bash
-python inference.py --model_path pretrained/model.pth --input_file your_data.csv
+python XXXX
 ```
 
 ## Results
@@ -90,7 +85,7 @@ Here are our experimental results on [dataset name]:
 
 ## Visualizations
 
-[If you have visualization results, place some example images here with brief explanations]
+XXXX
 
 ## Citation
 
@@ -98,17 +93,17 @@ If you use our code or method in your research, please cite our paper:
 
 ```
 @article{lastname2023paper,
-  title={Paper Title},
-  author={Lastname, Firstname and Coauthor, Name},
-  journal={Journal/Conference Name},
-  year={Publication Year}
+  title={Beyond Degradation Conditions: All-in-One Image Restoration via HOG Transformers},
+  author={Jiawei Wu, Zhifei Yang, Zhe Wang, Zhi Jin},
+  journal={},
+  year={}
 }
 ```
 
 ## License
 
-This project is licensed under the [License Type] License. See the [LICENSE](https://claude.ai/chat/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://claude.ai/chat/LICENSE) file for details.
 
 ## Contact
 
-For any questions, please contact: [your.email@example.com]
+For any questions, please contact: [wujw97@mail2.sysy.edu.cn]
