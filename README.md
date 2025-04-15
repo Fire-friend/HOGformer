@@ -1,6 +1,6 @@
 # Beyond Degradation Conditions: All-in-One Image Restoration via HOG Transformers
 
-This repository contains the official implementation of the paper "Beyond Degradation Conditions: All-in-One Image Restoration via HOG Transformers" (comming soon). 
+This repository contains the official implementation of the paper "[Beyond Degradation Conditions: All-in-One Image Restoration via HOG Transformers](https://arxiv.org/abs/2504.09377)" (Comming Soon). 
 
 ### Abstract
 
