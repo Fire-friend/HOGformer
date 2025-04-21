@@ -72,12 +72,8 @@ python XXXX # TBD
 
 ## Results
 Here are our experimental results on [dataset name]:
+![settingI](https://github.com/user-attachments/assets/a97973fb-3611-489c-9c25-a59098a96cb5)
 
-| Model      | Metric 1 | Metric 2 | Metric 3 |
-| ---------- | -------- | -------- | -------- |
-| Our Method | XX.X%    | XX.X%    | XX.X%    |
-| Baseline 1 | XX.X%    | XX.X%    | XX.X%    |
-| Baseline 2 | XX.X%    | XX.X%    | XX.X%    |
 
 ## Visualizations
 ![图片8](https://github.com/user-attachments/assets/7bbd3a2d-6a88-4a7a-b1b8-ab7d9197541a)
