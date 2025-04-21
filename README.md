@@ -21,8 +21,11 @@ git clone https://github.com/Fire-friend/HOGformer.git
 cd HOGformer/settingI
 # Create and activate virtual environment (recommended)
 conda create -n HOGformerI python==3.10
+conda activate HOGformerI
 # Install dependencies
 pip install -r requirements.txt
+# Install basicsr
+python setup.py develop --no_cuda_ext
 ```
 - Setting II
 ```bash
@@ -31,6 +34,7 @@ git clone https://github.com/Fire-friend/HOGformer.git
 cd HOGformer/settingII
 # Create and activate virtual environment (recommended)
 conda create -n HOGformerII python==3.10
+conda activate HOGformerII
 # Install dependencies
 pip install -r requirements.txt
 ```
