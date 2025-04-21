@@ -30,13 +30,13 @@ pip install -r requirements.txt
 
 ### Data Preparation
 
-#### Setting I
+- Setting I
 
-|      |      |
-| ---- | ---- |
-|      |      |
+| Training dataset | Test dataset |
+| ---------------- | ------------ |
+|                  |              |
 
-#### Setting II
+- Setting II
 
 |      |      |
 | ---- | ---- |
@@ -47,32 +47,30 @@ pip install -r requirements.txt
 
 ### Training
 
+- Setting I
 ```bash
-python XXXX
+cd settingI
+./train.sh Allweather/Options/Allweather_HOGformer.yml 4321
 ```
 
-Key parameters:
-
-- [Other important parameters]
-
+- Setting II
+```bash
+python XXXX # TBD
+```
 ### Evaluation
-
+- Setting I
+1. Download the pretrained models ([BaiduYun Disk](https://pan.baidu.com/s/17c-1eSklHNA6NmEznUjwug)[wa6u], [Google Drive #TBD]()) and place it in ./Allweather/pretrained_models/
+1. Test with the replaced argument
 ```bash
-python XXXX
+cd Allweather
+python test_histoformer.py --input_dir [INPUT_FOLDER] --result_dir result/ --weights pretrained_models/net_g_latest.pth --yaml_file Options/Allweather_HOGformer.yml
 ```
-
-### Using Pretrained Models
-
-We provide pretrained models that can be used directly for inference:
-
+- Setting II
 ```bash
-python XXXX
+python XXXX # TBD
 ```
 
 ## Results
-![图片8](https://github.com/user-attachments/assets/7bbd3a2d-6a88-4a7a-b1b8-ab7d9197541a)
-![图片9](https://github.com/user-attachments/assets/3268651b-0581-4c92-b4db-0b8fe6038745)
-
 Here are our experimental results on [dataset name]:
 
 | Model      | Metric 1 | Metric 2 | Metric 3 |
@@ -82,8 +80,8 @@ Here are our experimental results on [dataset name]:
 | Baseline 2 | XX.X%    | XX.X%    | XX.X%    |
 
 ## Visualizations
-
-XXXX
+![图片8](https://github.com/user-attachments/assets/7bbd3a2d-6a88-4a7a-b1b8-ab7d9197541a)
+![图片9](https://github.com/user-attachments/assets/3268651b-0581-4c92-b4db-0b8fe6038745)
 
 ## Citation
 
