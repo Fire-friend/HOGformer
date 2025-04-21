@@ -14,33 +14,41 @@ All-in-one image restoration, which aims to address diverse degradations within 
 
 ### Installation
 
+- Setting I
 ```bash
 # Clone the repository
 git clone https://github.com/Fire-friend/HOGformer.git
-cd HOGformer
-
+cd HOGformer/settingI
 # Create and activate virtual environment (recommended)
-conda create -n HOGformer python==3.10
-
+conda create -n HOGformerI python==3.10
 # Install dependencies
 pip install -r requirements.txt
 ```
-
+- Setting II
+```bash
+# Clone the repository
+git clone https://github.com/Fire-friend/HOGformer.git
+cd HOGformer/settingII
+# Create and activate virtual environment (recommended)
+conda create -n HOGformerII python==3.10
+# Install dependencies
+pip install -r requirements.txt
+```
 ## Dataset
 
 ### Data Preparation
 
 - Setting I
 
-| Training dataset | Test dataset |
-| ---------------- | ------------ |
-|                  |              |
+| Training dataset (All together)                | Test dataset (All together)                                  |
+| ---------------------------------------------- | ------------------------------------------------------------ |
+| ([BaiduYun Disk]()), ( [Google Drive # TBD]()) | ([BaiduYun Disk](https://pan.baidu.com/s/1ZZgOxKkVXBImtBWXOBg0LQ)[nabu]), ([Google Drive # TBD]()) |
 
-- Setting II
+- Setting II (#TBD)
 
-|      |      |
-| ---- | ---- |
-|      |      |
+| Training dataset                   | Test dataset                       |
+| ---------------------------------- | ---------------------------------- |
+| [BaiduYun Disk]() [Google Drive]() | [BaiduYun Disk]() [Google Drive]() |
 
 
 ## Usage
@@ -71,9 +79,7 @@ python XXXX # TBD
 ```
 
 ## Results
-Here are our experimental results on [dataset name]:
 ![settingI](https://github.com/user-attachments/assets/a97973fb-3611-489c-9c25-a59098a96cb5)
-
 
 ## Visualizations
 ![图片8](https://github.com/user-attachments/assets/7bbd3a2d-6a88-4a7a-b1b8-ab7d9197541a)
@@ -86,9 +92,9 @@ If you use our code or method in your research, please cite our paper:
 ```
 @article{lastname2023paper,
   title={Beyond Degradation Conditions: All-in-One Image Restoration via HOG Transformers},
-  author={Jiawei Wu, Zhifei Yang, Zhe Wang, Zhi Jin},
-  journal={},
-  year={}
+  author={Wu, Jiawei and Yang, Zhifei and Wang, Zhe and Jin, Zhi},
+  journal={arXiv preprint arXiv:2504.09377},
+  year={2025}
 }
 ```
 
