@@ -15,8 +15,10 @@ All-in-one image restoration (AIR) aims to address diverse degradations within a
 </div>
 <div align="center">
   <p><b>Method Overview</b></p>
-  <img src="https://github.com/user-attachments/assets/257fc0a2-fee3-4960-8d85-b5f45bf7ebda" alt="Method" width="85%">
+  <img src="https://github.com/user-attachments/assets/88eea38b-5af5-4c00-abde-7325abbe808c" alt="Method" width="85%">
 </div>
+
+
 
 ## 🛠️ Setup
 
