@@ -1,4 +1,4 @@
-# Gradient as Conditions: Rethinking HOG for All-in-one Image Restoration
+# Gradient as Conditions: Rethinking HOG for All-in-one Image Restoration (AAAI2026)
 
 [![Paper](https://img.shields.io/badge/arXiv-2504.09377v2-red)](https://arxiv.org/abs/2504.09377v2) [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
