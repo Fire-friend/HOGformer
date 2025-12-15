@@ -122,10 +122,10 @@ If you use our code or method in your research, please cite our paper:
 
 ```bibtex
 @article{lastname2023paper,
-  title={Beyond Degradation Conditions: All-in-One Image Restoration via HOG Transformers},
+  title={Gradient as Conditions: Rethinking HOG for All-in-one Image Restoration},
   author={Wu, Jiawei and Yang, Zhifei and Wang, Zhe and Jin, Zhi},
-  journal={arXiv preprint arXiv:2504.09377},
-  year={2025}
+  journal={AAAI},
+  year={2026}
 }
 ```
 
