@@ -108,7 +108,10 @@ python XXXX # TBD
 
 ## 📈 Results
 
-![Setting I Results](https://github.com/user-attachments/assets/a97973fb-3611-489c-9c25-a59098a96cb5)
+![Setting I Results](https://github.com/user-attachments/assets/9421fb07-8fd0-465f-89bd-b5599a184fe2)
+![Setting II Results](https://github.com/user-attachments/assets/c14b50c6-d10d-423b-8344-fc9b1fb283fb)
+![Setting III Results](https://github.com/user-attachments/assets/e861f0b8-6d99-4d77-978e-7d180a7bc0ab)
+![Setting IV Results](https://github.com/user-attachments/assets/c5e23ab3-70d5-4a0e-bf77-7dc4ccbf3397)
 
 ## 📷 Visualizations
 
