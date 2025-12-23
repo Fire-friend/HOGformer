@@ -31,14 +31,14 @@ All-in-one image restoration (AIR) aims to address diverse degradations within a
 <details>
 <summary><b>📊 Setting III Results</b></summary>
 
-![Setting III Results](https://github.com/user-attachments/assets/e861f0b8-6d99-4d77-978e-7d180a7bc0ab)
+![Setting III Results](https://github.com/user-attachments/assets/c5e23ab3-70d5-4a0e-bf77-7dc4ccbf3397)
 
 </details>
 
 <details>
 <summary><b>📊 Setting IV Results</b></summary>
 
-![Setting IV Results](https://github.com/user-attachments/assets/c5e23ab3-70d5-4a0e-bf77-7dc4ccbf3397)
+![Setting IV Results](https://github.com/user-attachments/assets/e861f0b8-6d99-4d77-978e-7d180a7bc0ab)
 
 </details>
 
