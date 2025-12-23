@@ -1,8 +1,8 @@
 # Gradient as Conditions: Rethinking HOG for All-in-one Image Restoration (AAAI2026)
 
-[![Paper](https://img.shields.io/badge/arXiv-2504.09377v2-red)](https://arxiv.org/abs/2504.09377v2) [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Paper](https://img.shields.io/badge/arXiv-2504.09377)](https://arxiv.org/abs/2504.09377) [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-This repository contains the official implementation of the paper "[Gradient as Conditions: Rethinking HOG for All-in-one Image Restoration](https://arxiv.org/abs/2504.09377v2)" (Coming Soon).
+This repository contains the official implementation of the paper "[Gradient as Conditions: Rethinking HOG for All-in-one Image Restoration](https://arxiv.org/abs/2504.09377)".
 
 ## 📑 Abstract
 
